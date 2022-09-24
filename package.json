@@ -5,14 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index"
 
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xuannbgch17346/lab4.git"
   },
-  "author": "",
+  "author": "Xuan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/xuannbgch17346/lab4/issues"
